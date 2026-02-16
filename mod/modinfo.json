@@ -1,0 +1,13 @@
+{
+  "id": "magica.extendedmenuscenes",
+  "name": "Extended Menuscenes",
+  "version": "1.0.0",
+  "authors": "MagicaJaphet",
+  "description": "Adds more customization utilities to MenuScenes.",
+  "requirements": [ "magica.hookinglibrary" ],
+  "requirements_names": [ "Hooking Library" ],
+  "tags": [
+    "Tools"
+  ],
+  "checksum_override_version": false
+}
